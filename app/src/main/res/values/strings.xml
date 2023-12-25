@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SuitmediaProjectTest</string>
+
+    <!--    First Screen    -->
+    <string name="photo">photo</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="check">CHECK</string>
+    <string name="next">NEXT</string>
+
+    <!--    Second Screen    -->
+    <string name="second_screen">Second Screen</string>
+    <string name="welcome">Welcome</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="dummy_name">John Doe</string>
+    <string name="choose_a_user">Choose a User</string>
+
+    <!--    Third Screen    -->
+    <string name="third_screen">Third Screen</string>
+    <string name="profile_picture">profile picture</string>
+    <string name="thirdscreen_dummy_name">Firstname Lastname</string>
+    <string name="dummy_email">EMAIL@EMAIL.COM</string>
+    <string name="retry">Retry</string>
+    <string name="full_name">%1$s %2$s</string>
+</resources>

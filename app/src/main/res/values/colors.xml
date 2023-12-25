@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="hint_color">#686777</color>
+    <color name="blue_color">#2B637B</color>
+    <color name="input_edit_outline">#E2E3E4</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="dark_text">#04021D</color>
+    <color name="email_text">#686777</color>
+</resources>
